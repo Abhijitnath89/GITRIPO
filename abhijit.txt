@@ -1,4 +1,9 @@
 my name is Abhijit.
+<<<<<<< HEAD
 i hate/love my first. today is thursday. job in accenture.
 pragya is a bad girl.
+=======
+i hate/love my job in accenture.
+today is thursday. pragya is a bad girl.
+>>>>>>> fdff5e6ba7e2e7875fda3b07d1b21a8eed232566
 i know this
